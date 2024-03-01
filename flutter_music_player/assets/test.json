@@ -1,0 +1,850 @@
+[
+  {
+    "category": "Albums",
+    "resultType": "album",
+    "title": "Drown",
+    "type": "Single",
+    "duration": null,
+    "year": "2024",
+    "artists": [
+      {
+        "name": "Single",
+        "id": null
+      },
+      {
+        "name": "Justin Timberlake",
+        "id": "UC6VwktUsQQDCkHG1h6YftAQ"
+      }
+    ],
+    "browseId": "MPREb_tquCEqLQc45",
+    "isExplicit": false,
+    "thumbnails": [
+      {
+        "url": "https://lh3.googleusercontent.com/ljBXAfwWd4dKGuyIi1A35l6cTSx1OcZZQLg2z32Zg98vUHusMRxNe3sTm-v2O3tW80uj6n_0dZlkcFHx=w60-h60-l90-rj",
+        "width": 60,
+        "height": 60
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/ljBXAfwWd4dKGuyIi1A35l6cTSx1OcZZQLg2z32Zg98vUHusMRxNe3sTm-v2O3tW80uj6n_0dZlkcFHx=w120-h120-l90-rj",
+        "width": 120,
+        "height": 120
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/ljBXAfwWd4dKGuyIi1A35l6cTSx1OcZZQLg2z32Zg98vUHusMRxNe3sTm-v2O3tW80uj6n_0dZlkcFHx=w226-h226-l90-rj",
+        "width": 226,
+        "height": 226
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/ljBXAfwWd4dKGuyIi1A35l6cTSx1OcZZQLg2z32Zg98vUHusMRxNe3sTm-v2O3tW80uj6n_0dZlkcFHx=w544-h544-l90-rj",
+        "width": 544,
+        "height": 544
+      }
+    ]
+  },
+  {
+    "category": "Albums",
+    "resultType": "album",
+    "title": "bad guy (with Justin Bieber)",
+    "type": "Single",
+    "duration": null,
+    "year": "2019",
+    "artists": [
+      {
+        "name": "Single",
+        "id": null
+      },
+      {
+        "name": "Billie Eilish",
+        "id": "UCERrDZ8oN0U_n9MphMKERcg"
+      },
+      {
+        "name": "Justin Bieber",
+        "id": "UCGvj8kfUV5Q6lzECIrGY19g"
+      }
+    ],
+    "browseId": "MPREb_kcyuMTCYzl8",
+    "isExplicit": false,
+    "thumbnails": [
+      {
+        "url": "https://lh3.googleusercontent.com/LrSokNXGACJ6S7yyPpGkkfNEc6i8A6lI3wTITY8lW4IJsZ5Ni9_K2Pqckoo8d_eFVkdCcJUkjwUE24mx=w60-h60-l90-rj",
+        "width": 60,
+        "height": 60
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/LrSokNXGACJ6S7yyPpGkkfNEc6i8A6lI3wTITY8lW4IJsZ5Ni9_K2Pqckoo8d_eFVkdCcJUkjwUE24mx=w120-h120-l90-rj",
+        "width": 120,
+        "height": 120
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/LrSokNXGACJ6S7yyPpGkkfNEc6i8A6lI3wTITY8lW4IJsZ5Ni9_K2Pqckoo8d_eFVkdCcJUkjwUE24mx=w226-h226-l90-rj",
+        "width": 226,
+        "height": 226
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/LrSokNXGACJ6S7yyPpGkkfNEc6i8A6lI3wTITY8lW4IJsZ5Ni9_K2Pqckoo8d_eFVkdCcJUkjwUE24mx=w544-h544-l90-rj",
+        "width": 544,
+        "height": 544
+      }
+    ]
+  },
+  {
+    "category": "Albums",
+    "resultType": "album",
+    "title": "Justin",
+    "type": "Album",
+    "duration": null,
+    "year": "2005",
+    "artists": [
+      {
+        "name": "Album",
+        "id": null
+      },
+      {
+        "name": "Justin Lo",
+        "id": "UCxAgH8ZicvawiXd6QHxvnUg"
+      }
+    ],
+    "browseId": "MPREb_lOPKYxTWrmz",
+    "isExplicit": false,
+    "thumbnails": [
+      {
+        "url": "https://lh3.googleusercontent.com/jlk_nHEXvF0dyh3ee7Ug3_hQKazphsSLol66PP7uy52xs_Vw5qqncWnLi55smbkAxaxRwt08EyENp6Yq=w60-h60-l90-rj",
+        "width": 60,
+        "height": 60
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/jlk_nHEXvF0dyh3ee7Ug3_hQKazphsSLol66PP7uy52xs_Vw5qqncWnLi55smbkAxaxRwt08EyENp6Yq=w120-h120-l90-rj",
+        "width": 120,
+        "height": 120
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/jlk_nHEXvF0dyh3ee7Ug3_hQKazphsSLol66PP7uy52xs_Vw5qqncWnLi55smbkAxaxRwt08EyENp6Yq=w226-h226-l90-rj",
+        "width": 226,
+        "height": 226
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/jlk_nHEXvF0dyh3ee7Ug3_hQKazphsSLol66PP7uy52xs_Vw5qqncWnLi55smbkAxaxRwt08EyENp6Yq=w544-h544-l90-rj",
+        "width": 544,
+        "height": 544
+      }
+    ]
+  },
+  {
+    "category": "Albums",
+    "resultType": "album",
+    "title": "attention (with Justin Bieber) (feat. Justin Bieber)",
+    "type": "Single",
+    "duration": null,
+    "year": "2022",
+    "artists": [
+      {
+        "name": "Single",
+        "id": null
+      },
+      {
+        "name": "Omah Lay",
+        "id": "UC60F2Ngz1ZkAP6v_PwgSY0A"
+      }
+    ],
+    "browseId": "MPREb_KIC2rnFqObl",
+    "isExplicit": false,
+    "thumbnails": [
+      {
+        "url": "https://lh3.googleusercontent.com/v6IS99iWJfZ6ExP-7ZZ15h2-x-IYftB5DhkCCOFnciLEZSyrgPwwcp5-l_gaYa1wZOW9a0npdxdFCFp23g=w60-h60-l90-rj",
+        "width": 60,
+        "height": 60
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/v6IS99iWJfZ6ExP-7ZZ15h2-x-IYftB5DhkCCOFnciLEZSyrgPwwcp5-l_gaYa1wZOW9a0npdxdFCFp23g=w120-h120-l90-rj",
+        "width": 120,
+        "height": 120
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/v6IS99iWJfZ6ExP-7ZZ15h2-x-IYftB5DhkCCOFnciLEZSyrgPwwcp5-l_gaYa1wZOW9a0npdxdFCFp23g=w226-h226-l90-rj",
+        "width": 226,
+        "height": 226
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/v6IS99iWJfZ6ExP-7ZZ15h2-x-IYftB5DhkCCOFnciLEZSyrgPwwcp5-l_gaYa1wZOW9a0npdxdFCFp23g=w544-h544-l90-rj",
+        "width": 544,
+        "height": 544
+      }
+    ]
+  },
+  {
+    "category": "Albums",
+    "resultType": "album",
+    "title": "Attention (with Justin Bieber) (Disclosure Remix)",
+    "type": "Single",
+    "duration": null,
+    "year": "2022",
+    "artists": [
+      {
+        "name": "Single",
+        "id": null
+      },
+      {
+        "name": "Omah Lay",
+        "id": "UC60F2Ngz1ZkAP6v_PwgSY0A"
+      },
+      {
+        "name": "Disclosure",
+        "id": "UCMqoUCDT2rtlvBS93GXGqDA"
+      }
+    ],
+    "browseId": "MPREb_zFt4bSkhFlt",
+    "isExplicit": false,
+    "thumbnails": [
+      {
+        "url": "https://lh3.googleusercontent.com/YKeUn5LBLSYdnFF14NhHsOCIUANkfn9pqwkftk8gHF5_2QrQzM8uA6JFsB9zwFzErKHCzMnpVl5mWW9L=w60-h60-l90-rj",
+        "width": 60,
+        "height": 60
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/YKeUn5LBLSYdnFF14NhHsOCIUANkfn9pqwkftk8gHF5_2QrQzM8uA6JFsB9zwFzErKHCzMnpVl5mWW9L=w120-h120-l90-rj",
+        "width": 120,
+        "height": 120
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/YKeUn5LBLSYdnFF14NhHsOCIUANkfn9pqwkftk8gHF5_2QrQzM8uA6JFsB9zwFzErKHCzMnpVl5mWW9L=w226-h226-l90-rj",
+        "width": 226,
+        "height": 226
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/YKeUn5LBLSYdnFF14NhHsOCIUANkfn9pqwkftk8gHF5_2QrQzM8uA6JFsB9zwFzErKHCzMnpVl5mWW9L=w544-h544-l90-rj",
+        "width": 544,
+        "height": 544
+      }
+    ]
+  },
+  {
+    "category": "Albums",
+    "resultType": "album",
+    "title": "3D - Justin Timberlake Remix",
+    "type": "Single",
+    "duration": null,
+    "year": "2023",
+    "artists": [
+      {
+        "name": "Single",
+        "id": null
+      },
+      {
+        "name": "Jung Kook",
+        "id": "UC-pOuHFcndLpyfWSPVqXt_A"
+      }
+    ],
+    "browseId": "MPREb_iwcFUsOOuLZ",
+    "isExplicit": false,
+    "thumbnails": [
+      {
+        "url": "https://lh3.googleusercontent.com/NqeWBLO01tGWKRKIR9B29cBMM72OIJLhvhUEltLqXhCJ9Vp1h6LCkWmdXc5qJgxP2_OTzklSplUqmpgs=w60-h60-l90-rj",
+        "width": 60,
+        "height": 60
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/NqeWBLO01tGWKRKIR9B29cBMM72OIJLhvhUEltLqXhCJ9Vp1h6LCkWmdXc5qJgxP2_OTzklSplUqmpgs=w120-h120-l90-rj",
+        "width": 120,
+        "height": 120
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/NqeWBLO01tGWKRKIR9B29cBMM72OIJLhvhUEltLqXhCJ9Vp1h6LCkWmdXc5qJgxP2_OTzklSplUqmpgs=w226-h226-l90-rj",
+        "width": 226,
+        "height": 226
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/NqeWBLO01tGWKRKIR9B29cBMM72OIJLhvhUEltLqXhCJ9Vp1h6LCkWmdXc5qJgxP2_OTzklSplUqmpgs=w544-h544-l90-rj",
+        "width": 544,
+        "height": 544
+      }
+    ]
+  },
+  {
+    "category": "Albums",
+    "resultType": "album",
+    "title": "BIU (feat. MAD)",
+    "type": "Single",
+    "duration": null,
+    "year": "2024",
+    "artists": [
+      {
+        "name": "Single",
+        "id": null
+      },
+      {
+        "name": "Justin",
+        "id": "UCZNa5oPpwSh2_z5tLZbR-3Q"
+      }
+    ],
+    "browseId": "MPREb_JsCWXkG7lZZ",
+    "isExplicit": false,
+    "thumbnails": [
+      {
+        "url": "https://lh3.googleusercontent.com/G8E2osIW4CgNGteGfXRhVFHeO1novcBvOS-yaLn0X76jd5p_sqSKh0_Xan7fDUE96qRc2sVrzTzHbs9n=w60-h60-l90-rj",
+        "width": 60,
+        "height": 60
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/G8E2osIW4CgNGteGfXRhVFHeO1novcBvOS-yaLn0X76jd5p_sqSKh0_Xan7fDUE96qRc2sVrzTzHbs9n=w120-h120-l90-rj",
+        "width": 120,
+        "height": 120
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/G8E2osIW4CgNGteGfXRhVFHeO1novcBvOS-yaLn0X76jd5p_sqSKh0_Xan7fDUE96qRc2sVrzTzHbs9n=w226-h226-l90-rj",
+        "width": 226,
+        "height": 226
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/G8E2osIW4CgNGteGfXRhVFHeO1novcBvOS-yaLn0X76jd5p_sqSKh0_Xan7fDUE96qRc2sVrzTzHbs9n=w544-h544-l90-rj",
+        "width": 544,
+        "height": 544
+      }
+    ]
+  },
+  {
+    "category": "Albums",
+    "resultType": "album",
+    "title": "ROLLER COASTER",
+    "type": "Single",
+    "duration": null,
+    "year": "2024",
+    "artists": [
+      {
+        "name": "Single",
+        "id": null
+      },
+      {
+        "name": "Justin V",
+        "id": "UCCjcNwP0BcYhfGPzevVazlg"
+      }
+    ],
+    "browseId": "MPREb_25yTVRIY9tA",
+    "isExplicit": false,
+    "thumbnails": [
+      {
+        "url": "https://lh3.googleusercontent.com/efqfLJB1rNjK_U2Pb9lhSFQ3V3o8ElO2G38paDBy2GsV8vb_2wW1qvvpcr6GMKQKriw7x__H0s2u4rsb=w60-h60-l90-rj",
+        "width": 60,
+        "height": 60
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/efqfLJB1rNjK_U2Pb9lhSFQ3V3o8ElO2G38paDBy2GsV8vb_2wW1qvvpcr6GMKQKriw7x__H0s2u4rsb=w120-h120-l90-rj",
+        "width": 120,
+        "height": 120
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/efqfLJB1rNjK_U2Pb9lhSFQ3V3o8ElO2G38paDBy2GsV8vb_2wW1qvvpcr6GMKQKriw7x__H0s2u4rsb=w226-h226-l90-rj",
+        "width": 226,
+        "height": 226
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/efqfLJB1rNjK_U2Pb9lhSFQ3V3o8ElO2G38paDBy2GsV8vb_2wW1qvvpcr6GMKQKriw7x__H0s2u4rsb=w544-h544-l90-rj",
+        "width": 544,
+        "height": 544
+      }
+    ]
+  },
+  {
+    "category": "Albums",
+    "resultType": "album",
+    "title": "The Table",
+    "type": "Single",
+    "duration": null,
+    "year": "2024",
+    "artists": [
+      {
+        "name": "Single",
+        "id": null
+      },
+      {
+        "name": "Justin Clark",
+        "id": "UCcDPmjCUlG9HmZFII9DfCpg"
+      }
+    ],
+    "browseId": "MPREb_lgkTS24nzPk",
+    "isExplicit": false,
+    "thumbnails": [
+      {
+        "url": "https://lh3.googleusercontent.com/NVpifsgypU2d50MK2TIxAFtpeKDI_FpctOIqwf3o8waURSpX2h7arbZIJOWsXgTF5aAKmKu8akbUuAwpZQ=w60-h60-l90-rj",
+        "width": 60,
+        "height": 60
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/NVpifsgypU2d50MK2TIxAFtpeKDI_FpctOIqwf3o8waURSpX2h7arbZIJOWsXgTF5aAKmKu8akbUuAwpZQ=w120-h120-l90-rj",
+        "width": 120,
+        "height": 120
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/NVpifsgypU2d50MK2TIxAFtpeKDI_FpctOIqwf3o8waURSpX2h7arbZIJOWsXgTF5aAKmKu8akbUuAwpZQ=w226-h226-l90-rj",
+        "width": 226,
+        "height": 226
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/NVpifsgypU2d50MK2TIxAFtpeKDI_FpctOIqwf3o8waURSpX2h7arbZIJOWsXgTF5aAKmKu8akbUuAwpZQ=w544-h544-l90-rj",
+        "width": 544,
+        "height": 544
+      }
+    ]
+  },
+  {
+    "category": "Albums",
+    "resultType": "album",
+    "title": "Architect",
+    "type": "Single",
+    "duration": null,
+    "year": "2024",
+    "artists": [
+      {
+        "name": "Single",
+        "id": null
+      },
+      {
+        "name": "Justin Holt",
+        "id": "UC0U4CwgjLQYMaGwo5voCDVA"
+      }
+    ],
+    "browseId": "MPREb_YW1alngx4n7",
+    "isExplicit": true,
+    "thumbnails": [
+      {
+        "url": "https://lh3.googleusercontent.com/98x1X-VypbWYEMfnQskbFIjuXcGKBwFKbjjuxkdwY4w2Njb0dO30_84JtC9lnVkxWKoQ0mZaA68XqnRR=w60-h60-l90-rj",
+        "width": 60,
+        "height": 60
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/98x1X-VypbWYEMfnQskbFIjuXcGKBwFKbjjuxkdwY4w2Njb0dO30_84JtC9lnVkxWKoQ0mZaA68XqnRR=w120-h120-l90-rj",
+        "width": 120,
+        "height": 120
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/98x1X-VypbWYEMfnQskbFIjuXcGKBwFKbjjuxkdwY4w2Njb0dO30_84JtC9lnVkxWKoQ0mZaA68XqnRR=w226-h226-l90-rj",
+        "width": 226,
+        "height": 226
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/98x1X-VypbWYEMfnQskbFIjuXcGKBwFKbjjuxkdwY4w2Njb0dO30_84JtC9lnVkxWKoQ0mZaA68XqnRR=w544-h544-l90-rj",
+        "width": 544,
+        "height": 544
+      }
+    ]
+  },
+  {
+    "category": "Albums",
+    "resultType": "album",
+    "title": "Mind Machine",
+    "type": "Single",
+    "duration": null,
+    "year": "2024",
+    "artists": [
+      {
+        "name": "Single",
+        "id": null
+      },
+      {
+        "name": "Justin Rich",
+        "id": "UCfFCggb8XCmg1oMHD_GLHtg"
+      }
+    ],
+    "browseId": "MPREb_x3ITqP0ZDUJ",
+    "isExplicit": false,
+    "thumbnails": [
+      {
+        "url": "https://lh3.googleusercontent.com/KM4YQwcDKWEcJgWRY5uTZPes-c5y97yYppVYWf5W-nDh6v5SMcCD91IO8G7xsdprkK7_BPOR4wUdB2KR=w60-h60-l90-rj",
+        "width": 60,
+        "height": 60
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/KM4YQwcDKWEcJgWRY5uTZPes-c5y97yYppVYWf5W-nDh6v5SMcCD91IO8G7xsdprkK7_BPOR4wUdB2KR=w120-h120-l90-rj",
+        "width": 120,
+        "height": 120
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/KM4YQwcDKWEcJgWRY5uTZPes-c5y97yYppVYWf5W-nDh6v5SMcCD91IO8G7xsdprkK7_BPOR4wUdB2KR=w226-h226-l90-rj",
+        "width": 226,
+        "height": 226
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/KM4YQwcDKWEcJgWRY5uTZPes-c5y97yYppVYWf5W-nDh6v5SMcCD91IO8G7xsdprkK7_BPOR4wUdB2KR=w544-h544-l90-rj",
+        "width": 544,
+        "height": 544
+      }
+    ]
+  },
+  {
+    "category": "Albums",
+    "resultType": "album",
+    "title": "ERRBODY",
+    "type": "Single",
+    "duration": null,
+    "year": "2024",
+    "artists": [
+      {
+        "name": "Single",
+        "id": null
+      },
+      {
+        "name": "Justin Gummerman",
+        "id": "UCQ8UqXxsRbksi5UTPLcwy-w"
+      }
+    ],
+    "browseId": "MPREb_NvEIpXjCCWJ",
+    "isExplicit": true,
+    "thumbnails": [
+      {
+        "url": "https://lh3.googleusercontent.com/m1wpOmX5wjVy8DcLPjI3IoRuVLyIZkhEZnGinW9KI8rG8t6gtQYRmprXSOGPyrtbGuePJs5WdcZM_fk=w60-h60-l90-rj",
+        "width": 60,
+        "height": 60
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/m1wpOmX5wjVy8DcLPjI3IoRuVLyIZkhEZnGinW9KI8rG8t6gtQYRmprXSOGPyrtbGuePJs5WdcZM_fk=w120-h120-l90-rj",
+        "width": 120,
+        "height": 120
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/m1wpOmX5wjVy8DcLPjI3IoRuVLyIZkhEZnGinW9KI8rG8t6gtQYRmprXSOGPyrtbGuePJs5WdcZM_fk=w226-h226-l90-rj",
+        "width": 226,
+        "height": 226
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/m1wpOmX5wjVy8DcLPjI3IoRuVLyIZkhEZnGinW9KI8rG8t6gtQYRmprXSOGPyrtbGuePJs5WdcZM_fk=w544-h544-l90-rj",
+        "width": 544,
+        "height": 544
+      }
+    ]
+  },
+  {
+    "category": "Albums",
+    "resultType": "album",
+    "title": "The Nothing",
+    "type": "Single",
+    "duration": null,
+    "year": "2024",
+    "artists": [
+      {
+        "name": "Single",
+        "id": null
+      },
+      {
+        "name": "Justin Dolan",
+        "id": "UCFxta5sIFiu4lxHkpxXmwqg"
+      }
+    ],
+    "browseId": "MPREb_QrooJgRwloO",
+    "isExplicit": false,
+    "thumbnails": [
+      {
+        "url": "https://lh3.googleusercontent.com/gQyfK5giZH7xTKOzEEq_MQrCgc65WTBOQUh_lQ2rK9PGGSpKXs_-HuMWytU053M5MnzxxyfyW46AvTNY1A=w60-h60-l90-rj",
+        "width": 60,
+        "height": 60
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/gQyfK5giZH7xTKOzEEq_MQrCgc65WTBOQUh_lQ2rK9PGGSpKXs_-HuMWytU053M5MnzxxyfyW46AvTNY1A=w120-h120-l90-rj",
+        "width": 120,
+        "height": 120
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/gQyfK5giZH7xTKOzEEq_MQrCgc65WTBOQUh_lQ2rK9PGGSpKXs_-HuMWytU053M5MnzxxyfyW46AvTNY1A=w226-h226-l90-rj",
+        "width": 226,
+        "height": 226
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/gQyfK5giZH7xTKOzEEq_MQrCgc65WTBOQUh_lQ2rK9PGGSpKXs_-HuMWytU053M5MnzxxyfyW46AvTNY1A=w544-h544-l90-rj",
+        "width": 544,
+        "height": 544
+      }
+    ]
+  },
+  {
+    "category": "Albums",
+    "resultType": "album",
+    "title": "Justin 2",
+    "type": "Album",
+    "duration": null,
+    "year": "2024",
+    "artists": [
+      {
+        "name": "Album",
+        "id": null
+      },
+      {
+        "name": "PLEUNTAH",
+        "id": "UCUe3lPKE0xcH9IDKFnKWiow"
+      }
+    ],
+    "browseId": "MPREb_MUkPrbQWIh2",
+    "isExplicit": true,
+    "thumbnails": [
+      {
+        "url": "https://lh3.googleusercontent.com/y7VZW4g3wOknfNd9cOxOz4H0TFNjN_LH7KRwABJQJ9iPgBQb4Pw7mGlSjUejJu6okkaQv-zoC7uGbsg=w60-h60-l90-rj",
+        "width": 60,
+        "height": 60
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/y7VZW4g3wOknfNd9cOxOz4H0TFNjN_LH7KRwABJQJ9iPgBQb4Pw7mGlSjUejJu6okkaQv-zoC7uGbsg=w120-h120-l90-rj",
+        "width": 120,
+        "height": 120
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/y7VZW4g3wOknfNd9cOxOz4H0TFNjN_LH7KRwABJQJ9iPgBQb4Pw7mGlSjUejJu6okkaQv-zoC7uGbsg=w226-h226-l90-rj",
+        "width": 226,
+        "height": 226
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/y7VZW4g3wOknfNd9cOxOz4H0TFNjN_LH7KRwABJQJ9iPgBQb4Pw7mGlSjUejJu6okkaQv-zoC7uGbsg=w544-h544-l90-rj",
+        "width": 544,
+        "height": 544
+      }
+    ]
+  },
+  {
+    "category": "Albums",
+    "resultType": "album",
+    "title": "Justin Disco",
+    "type": "Single",
+    "duration": null,
+    "year": "2024",
+    "artists": [
+      {
+        "name": "Single",
+        "id": null
+      },
+      {
+        "name": "Anzar",
+        "id": "UChjMc2e4BUBjpocgmG8u1bw"
+      }
+    ],
+    "browseId": "MPREb_p7OFOYL1H0f",
+    "isExplicit": false,
+    "thumbnails": [
+      {
+        "url": "https://lh3.googleusercontent.com/Yn3qfV83XAo0p2VHW5Yo3gxVKdwTAsazrEL8QdW-9VhoUiaE8nLhEJyFMSsXm1izS2_aq87r7pEvJAg=w60-h60-l90-rj",
+        "width": 60,
+        "height": 60
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/Yn3qfV83XAo0p2VHW5Yo3gxVKdwTAsazrEL8QdW-9VhoUiaE8nLhEJyFMSsXm1izS2_aq87r7pEvJAg=w120-h120-l90-rj",
+        "width": 120,
+        "height": 120
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/Yn3qfV83XAo0p2VHW5Yo3gxVKdwTAsazrEL8QdW-9VhoUiaE8nLhEJyFMSsXm1izS2_aq87r7pEvJAg=w226-h226-l90-rj",
+        "width": 226,
+        "height": 226
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/Yn3qfV83XAo0p2VHW5Yo3gxVKdwTAsazrEL8QdW-9VhoUiaE8nLhEJyFMSsXm1izS2_aq87r7pEvJAg=w544-h544-l90-rj",
+        "width": 544,
+        "height": 544
+      }
+    ]
+  },
+  {
+    "category": "Albums",
+    "resultType": "album",
+    "title": "justin bieber wit mantra!!!",
+    "type": "Single",
+    "duration": null,
+    "year": "2024",
+    "artists": [
+      {
+        "name": "Single",
+        "id": null
+      },
+      {
+        "name": "SLATER4U",
+        "id": "UC_uPJPMfVZGbZJst9Ueb9JA"
+      }
+    ],
+    "browseId": "MPREb_jGjAYYvidxZ",
+    "isExplicit": true,
+    "thumbnails": [
+      {
+        "url": "https://lh3.googleusercontent.com/yC0kJx6luTkj1tJ8Pm7gd8aew2IrRM9Vcfu6K1PJfimlhRRBJH0VekUUvYQnPlsfs3slFq4F0Mi_cl70=w60-h60-l90-rj",
+        "width": 60,
+        "height": 60
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/yC0kJx6luTkj1tJ8Pm7gd8aew2IrRM9Vcfu6K1PJfimlhRRBJH0VekUUvYQnPlsfs3slFq4F0Mi_cl70=w120-h120-l90-rj",
+        "width": 120,
+        "height": 120
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/yC0kJx6luTkj1tJ8Pm7gd8aew2IrRM9Vcfu6K1PJfimlhRRBJH0VekUUvYQnPlsfs3slFq4F0Mi_cl70=w226-h226-l90-rj",
+        "width": 226,
+        "height": 226
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/yC0kJx6luTkj1tJ8Pm7gd8aew2IrRM9Vcfu6K1PJfimlhRRBJH0VekUUvYQnPlsfs3slFq4F0Mi_cl70=w544-h544-l90-rj",
+        "width": 544,
+        "height": 544
+      }
+    ]
+  },
+  {
+    "category": "Albums",
+    "resultType": "album",
+    "title": "Universe",
+    "type": "Album",
+    "duration": null,
+    "year": "2024",
+    "artists": [
+      {
+        "name": "Album",
+        "id": null
+      },
+      {
+        "name": "Justin Lecterman",
+        "id": "UCvTj3mg896fWKIcTKCPuqvQ"
+      }
+    ],
+    "browseId": "MPREb_zg7d5c5fCbS",
+    "isExplicit": false,
+    "thumbnails": [
+      {
+        "url": "https://lh3.googleusercontent.com/Gq7uBr3L1jKSp4bKsH92Rq7c4YNoW62pCpX6gQFjtqKmQolWn5zBfnwhM-YIGbrsW5cO7xEkQHADeBkp=w60-h60-l90-rj",
+        "width": 60,
+        "height": 60
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/Gq7uBr3L1jKSp4bKsH92Rq7c4YNoW62pCpX6gQFjtqKmQolWn5zBfnwhM-YIGbrsW5cO7xEkQHADeBkp=w120-h120-l90-rj",
+        "width": 120,
+        "height": 120
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/Gq7uBr3L1jKSp4bKsH92Rq7c4YNoW62pCpX6gQFjtqKmQolWn5zBfnwhM-YIGbrsW5cO7xEkQHADeBkp=w226-h226-l90-rj",
+        "width": 226,
+        "height": 226
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/Gq7uBr3L1jKSp4bKsH92Rq7c4YNoW62pCpX6gQFjtqKmQolWn5zBfnwhM-YIGbrsW5cO7xEkQHADeBkp=w544-h544-l90-rj",
+        "width": 544,
+        "height": 544
+      }
+    ]
+  },
+  {
+    "category": "Albums",
+    "resultType": "album",
+    "title": "Justin Trouble",
+    "type": "Album",
+    "duration": null,
+    "year": "2024",
+    "artists": [
+      {
+        "name": "Album",
+        "id": null
+      },
+      {
+        "name": "Justin Love",
+        "id": "UCoqfDsKr-3jvRtMsTgERh-A"
+      }
+    ],
+    "browseId": "MPREb_NNiSotV9Ape",
+    "isExplicit": false,
+    "thumbnails": [
+      {
+        "url": "https://lh3.googleusercontent.com/Q_wRgrVQv9gxBBoMYlTjNm0o-Ttds8luoGYDv0rVhap6z8Zlxh_OwKfBXkwIzsGZaTt3r6iMTPdFvrc=w60-h60-l90-rj",
+        "width": 60,
+        "height": 60
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/Q_wRgrVQv9gxBBoMYlTjNm0o-Ttds8luoGYDv0rVhap6z8Zlxh_OwKfBXkwIzsGZaTt3r6iMTPdFvrc=w120-h120-l90-rj",
+        "width": 120,
+        "height": 120
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/Q_wRgrVQv9gxBBoMYlTjNm0o-Ttds8luoGYDv0rVhap6z8Zlxh_OwKfBXkwIzsGZaTt3r6iMTPdFvrc=w226-h226-l90-rj",
+        "width": 226,
+        "height": 226
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/Q_wRgrVQv9gxBBoMYlTjNm0o-Ttds8luoGYDv0rVhap6z8Zlxh_OwKfBXkwIzsGZaTt3r6iMTPdFvrc=w544-h544-l90-rj",
+        "width": 544,
+        "height": 544
+      }
+    ]
+  },
+  {
+    "category": "Albums",
+    "resultType": "album",
+    "title": "Justin Bieber",
+    "type": "Single",
+    "duration": null,
+    "year": "2023",
+    "artists": [
+      {
+        "name": "Single",
+        "id": null
+      },
+      {
+        "name": "Shehab",
+        "id": "UC13IklBrQoS_XybkZWM7V5Q"
+      }
+    ],
+    "browseId": "MPREb_sGPRSI8nHf7",
+    "isExplicit": true,
+    "thumbnails": [
+      {
+        "url": "https://lh3.googleusercontent.com/MaB8UnGXZJxlWt5Wp438R498gOcfDVoMRxoUFGtAFbiS9yPSaQFsOpppEqfMM0Hg6VRYrYu8DfbBPR3UgA=w60-h60-l90-rj",
+        "width": 60,
+        "height": 60
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/MaB8UnGXZJxlWt5Wp438R498gOcfDVoMRxoUFGtAFbiS9yPSaQFsOpppEqfMM0Hg6VRYrYu8DfbBPR3UgA=w120-h120-l90-rj",
+        "width": 120,
+        "height": 120
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/MaB8UnGXZJxlWt5Wp438R498gOcfDVoMRxoUFGtAFbiS9yPSaQFsOpppEqfMM0Hg6VRYrYu8DfbBPR3UgA=w226-h226-l90-rj",
+        "width": 226,
+        "height": 226
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/MaB8UnGXZJxlWt5Wp438R498gOcfDVoMRxoUFGtAFbiS9yPSaQFsOpppEqfMM0Hg6VRYrYu8DfbBPR3UgA=w544-h544-l90-rj",
+        "width": 544,
+        "height": 544
+      }
+    ]
+  },
+  {
+    "category": "Albums",
+    "resultType": "album",
+    "title": "EP 2024",
+    "type": "EP",
+    "duration": null,
+    "year": "2024",
+    "artists": [
+      {
+        "name": "EP",
+        "id": null
+      },
+      {
+        "name": "Justin Worsdale",
+        "id": "UCGEUQxTk7681XiUf0fbm6Bg"
+      }
+    ],
+    "browseId": "MPREb_3JexXc0dPqo",
+    "isExplicit": false,
+    "thumbnails": [
+      {
+        "url": "https://lh3.googleusercontent.com/HK-blQPCx-nipGvPA6Q3PxeCSptzrSAnmA0xOGloGmOtcZuMhhm1k5vDZd7GY8Ik7_lYBzBA94p8Aro7Dg=w60-h60-l90-rj",
+        "width": 60,
+        "height": 60
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/HK-blQPCx-nipGvPA6Q3PxeCSptzrSAnmA0xOGloGmOtcZuMhhm1k5vDZd7GY8Ik7_lYBzBA94p8Aro7Dg=w120-h120-l90-rj",
+        "width": 120,
+        "height": 120
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/HK-blQPCx-nipGvPA6Q3PxeCSptzrSAnmA0xOGloGmOtcZuMhhm1k5vDZd7GY8Ik7_lYBzBA94p8Aro7Dg=w226-h226-l90-rj",
+        "width": 226,
+        "height": 226
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/HK-blQPCx-nipGvPA6Q3PxeCSptzrSAnmA0xOGloGmOtcZuMhhm1k5vDZd7GY8Ik7_lYBzBA94p8Aro7Dg=w544-h544-l90-rj",
+        "width": 544,
+        "height": 544
+      }
+    ]
+  }
+]
