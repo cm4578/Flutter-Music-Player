@@ -39,55 +39,55 @@ class _HomePageState extends State<HomePage> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      body: SafeArea(child: Stack(
+      body: Stack(
         children: [
           SingleChildScrollView(
-            child: Padding(
-              padding: const EdgeInsets.all(10.0),
-              child: Column(
-                crossAxisAlignment: CrossAxisAlignment.start,
-                children: [
-                  const SizedBox(height: 20,),
-                  const Padding(padding: EdgeInsets.symmetric(horizontal: 10),child: Text('Quick picks',style: TextStyle(color: Colors.black,fontWeight: FontWeight.bold,fontSize: 30),),),
-                  const SizedBox(height: 20,),
-                  Padding(padding: const EdgeInsets.symmetric(horizontal: 10),child: MaterialHero(tag: 'field', child: SearchField(controller: _viewModel.searchController,readOnly: true,onTap: () {
-                    Navigator.push(context, PageRouteBuilder(pageBuilder: (context, animation,secondaryAnimation) {
-                      return const SearchPage();
-                    }));
-                  },)),),
+            child: SafeArea(
+              child: Padding(
+                padding: const EdgeInsets.all(10.0),
+                child: Column(
+                  crossAxisAlignment: CrossAxisAlignment.start,
+                  children: [
+                    const SizedBox(height: 20,),
+                    const Padding(padding: EdgeInsets.symmetric(horizontal: 10),child: Text('Quick picks',style: TextStyle(color: Colors.black,fontWeight: FontWeight.bold,fontSize: 30),),),
+                    const SizedBox(height: 20,),
+                    Padding(padding: const EdgeInsets.symmetric(horizontal: 10),child: MaterialHero(tag: 'field', child: SearchField(controller: _viewModel.searchController,readOnly: true,onTap: () {
+                      Navigator.push(context, PageRouteBuilder(pageBuilder: (context, animation,secondaryAnimation) {
+                        return const SearchPage();
+                      }));
+                    },)),),
 
-                  Stack(
-                    children: [
-                      if (_viewModel.dataList.isEmpty) Align(alignment: Alignment.center,child: Padding(padding: const EdgeInsets.only(top: 60),child: CircularProgressIndicator(color: Colors.blue.withOpacity(0.6),),)),
-                      Column(
-                        children: [
-                          const SizedBox(height: 20,),
-                          SizedBox(
-                            width: double.infinity,
-                            height: MediaQuery.of(context).size.height * 0.42,
-                            child: GridView.builder(scrollDirection: Axis.horizontal,padding: const EdgeInsets.symmetric(horizontal: 5),shrinkWrap: true,gridDelegate: const SliverGridDelegateWithFixedCrossAxisCount(crossAxisCount: 2,childAspectRatio:  3.5 / 2.5), itemBuilder: (context,index) {
-                              var dataSet = _viewModel.quickPicks!.contents[index] as SingSong;
-                              return QuickPickItem(dataSet: dataSet, onTap: () {
-                                Navigator.push(context, MaterialPageRoute(builder: (context) => MusicPlayerPage(quickPick: dataSet,)));
-                              },);
-                            },itemCount: getListItemCount(_viewModel.quickPicks),),
-                          ),
-                          Column(crossAxisAlignment: CrossAxisAlignment.start,children: List.generate(_viewModel.randomWidgetList.length, (index) {
-                            return _viewModel.randomWidgetList[index];
-                          }),)
-                        ],
-                      ),
-                    ],
-                  )
-                ],
+                    Stack(
+                      children: [
+                        if (_viewModel.dataList.isEmpty) Align(alignment: Alignment.center,child: Padding(padding: const EdgeInsets.only(top: 60),child: CircularProgressIndicator(color: Colors.blue.withOpacity(0.6),),)),
+                        Column(
+                          children: [
+                            const SizedBox(height: 20,),
+                            SizedBox(
+                              width: double.infinity,
+                              height: MediaQuery.of(context).size.height * 0.42,
+                              child: GridView.builder(scrollDirection: Axis.horizontal,padding: const EdgeInsets.symmetric(horizontal: 5),shrinkWrap: true,gridDelegate: const SliverGridDelegateWithFixedCrossAxisCount(crossAxisCount: 2,childAspectRatio:  3.5 / 2.5), itemBuilder: (context,index) {
+                                var dataSet = _viewModel.quickPicks!.contents[index] as SingSong;
+                                return QuickPickItem(dataSet: dataSet, onTap: () {
+                                  Navigator.push(context, MaterialPageRoute(builder: (context) => MusicPlayerPage(quickPick: dataSet,)));
+                                },);
+                              },itemCount: getListItemCount(_viewModel.quickPicks),),
+                            ),
+                            Column(crossAxisAlignment: CrossAxisAlignment.start,children: List.generate(_viewModel.randomWidgetList.length, (index) {
+                              return _viewModel.randomWidgetList[index];
+                            }),)
+                          ],
+                        ),
+                      ],
+                    )
+                  ],
+                ),
               ),
             ),
           ),
-          if (AudioPlayUtils.hasPlayerAndData) Positioned(bottom: 0,left: 0,right: 0,child: GestureDetector(onTap: () {
-            Navigator.push(context, MaterialPageRoute(builder: (context) => MusicPlayerPage(trackList: AudioPlayUtils.trackList,currentIndex: AudioPlayUtils.audioPlayer.currentIndex ?? 0,)));
-          },child: const MiniPlayer(),))
+          if (AudioPlayUtils.hasPlayerAndData) const MiniPlayer()
         ],
-      )),
+      ),
     );
   }
 

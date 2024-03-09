@@ -31,6 +31,7 @@ class _PlayListSheetState extends State<PlayListSheet> {
       if (widget.onScroll != null) widget.onScroll!(scrollController.size);
       toolAlpha = 1 - ComputeUtils.calculatorPercentage(scrollController.size, .09, .2).clamp(0.0, 1.0);
       listAlpha = ComputeUtils.calculatorPercentage(scrollController.size, .09, .2).clamp(0.0, 1.0);
+      setState(() {});
     });
   }
 

@@ -6,7 +6,7 @@ import '../model/track.dart';
 
 class Global {
 
-  static String baseUrl = 'http://172.20.10.11:8010';
+  static String baseUrl = 'http://192.168.0.23:8010';
 
 
   static String? getSingleSongImage(List<Thumbnail> thumbnails) {

@@ -9,13 +9,16 @@ class NetworkSongImage extends StatefulWidget {
       this.height,
       this.width,
       this.fit,
-      this.musicIconSize});
+      this.musicIconSize,
+      this.scale = 1.0, this.alignment = Alignment.center});
 
   final String? url;
   final double? height;
   final double? width;
   final BoxFit? fit;
+  final double scale;
   final double? musicIconSize;
+  final Alignment alignment;
 
   @override
   State<NetworkSongImage> createState() => _NetworkSongImageState();
@@ -34,7 +37,9 @@ class _NetworkSongImageState extends State<NetworkSongImage> {
             widget.url!,
             width: widget.width,
             height: widget.height,
+            scale: widget.scale,
             fit: widget.fit,
+            alignment: widget.alignment,
           );
   }
 }
